@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahianmol1&label=Profile%20views&color=0e75b6&style=flat" alt="sahianmol1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@anmolsinghsahi2" target="blank"><img src="https://img.shields.io/twitter/follow/@anmolsinghsahi2?logo=twitter&style=for-the-badge" alt="anmolsinghsahi2" /></a> </p>
-
 - 🔭 I’m currently working on [Bronco for Reddit](https://github.com/sahianmol1/Bronco-for-Reddit)
 
 - 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform and Flutter**
