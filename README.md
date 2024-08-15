@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anmol Sahi</h1>
-<h3 align="center">🤖 Passionate Android Developer 🤖</h3>
+<h1 align="center">नमस्ते (Namaste) 🙏, I'm Anmol Sahi</h1>
+<h2 align="center">🤖 Passionate Android Developer 🤖</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahianmol1&label=Profile%20views&color=0e75b6&style=flat" alt="sahianmol1" /> </p>
 
