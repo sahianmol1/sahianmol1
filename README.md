@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste) 🙏 , I'm Anmol Sahi <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">नमस्ते (Namaste), I'm Anmol Sahi <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h2 align="center">🤖 Android Developer 🤖</h2>
 
 I’m an Android application developer with a passion for crafting high quality, user-friendly Android apps. 🚀
