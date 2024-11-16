@@ -5,7 +5,7 @@ I’m an Android application developer with a passion for crafting high quality,
 
 - 🔭 I’m currently working on [Bronco for Reddit](https://github.com/sahianmol1/Bronco-for-Reddit)
 
-- 🌱 I’m currently learning **Jetpack Compose, and kotlin multiplatform**
+- 🌱 I’m currently learning **Jetpack Compose and Kotlin Multiplatform**
 
 - 💬 Ask me about **Android and Kotlin**
 
