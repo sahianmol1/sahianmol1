@@ -9,13 +9,17 @@ I’m an Android application developer with a passion for crafting high quality,
  <li>Skilled in Jetpack Compose, Kotlin, and building scalable, modern Android applications.</li>
 </ul>
 
-<h2>💡 What Drives Me</h2>
-- Delivering robust and elegant solutions that make users' lives better.
-- Staying ahead of the curve with the latest Android development practices and tools.
+<h3>💡 What Drives Me</h3>
+<ul>
+ <li>Delivering robust and elegant solutions that make users' lives better.</li>
+ <li></li>Staying ahead of the curve with the latest Android development practices and tools.</li>
+</ul>
 
-<h2>🛠️ Current Focus</h2>
-- Building impactful projects and refining my skills.
-- Collaborating on open-source contributions to give back to the community.
+<h3>🛠️ Current Focus</h3>
+<ul>
+ <li>Building impactful projects and refining my skills.</li>
+ <li>Collaborating on open-source contributions to give back to the community.</li>
+</ul>
 
 Let’s connect and build something amazing! ✨
 
