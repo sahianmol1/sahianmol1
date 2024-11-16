@@ -3,7 +3,7 @@
 
 I’m an Android application developer with a passion for crafting high quality, user-friendly Android apps. 🚀
 
-<h2>🌟 About Me</h2>
+<h3>🌟 About Me</h3>
 - Highly motivated and deeply curious about the ever-evolving tech world.
 - Skilled in Jetpack Compose, Kotlin, and building scalable, modern Android applications.
 
