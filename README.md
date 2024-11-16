@@ -11,8 +11,7 @@ I’m an Android application developer with a passion for crafting high quality,
 
 - 📫 How to reach me **sahi.anmool@gmail.com**
 
-Let’s connect and build something amazing! ✨
-
+<h3>Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/@anmolsinghsahi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anmolsinghsahi2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anmol-singh-sahi-258101171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-singh-sahi" height="30" width="40" /></a> <a href="https://leetcode.com/u/anmolsahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anmolsahi/" height="30" width="40" /></a>
