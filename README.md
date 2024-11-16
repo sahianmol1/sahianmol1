@@ -1,6 +1,22 @@
 <h1 align="center">नमस्ते (Namaste) 🙏 , I'm Anmol Sahi <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h2 align="center">🤖 Android Developer 🤖</h2>
 
+I’m an Android application developer with a passion for crafting high quality, user-friendly Android apps. 🚀
+
+<h2>🌟 About Me</h2>
+- Highly motivated and deeply curious about the ever-evolving tech world.
+- Skilled in Jetpack Compose, Kotlin, and building scalable, modern Android applications.
+
+<h2>💡 What Drives Me</h2>
+- Delivering robust and elegant solutions that make users' lives better.
+- Staying ahead of the curve with the latest Android development practices and tools.
+
+<h2>🛠️ Current Focus</h2>
+- Building impactful projects and refining my skills.
+- Collaborating on open-source contributions to give back to the community.
+
+Let’s connect and build something amazing! ✨
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahianmol1&label=Profile%20views&color=0e75b6&style=flat" alt="sahianmol1" /> </p>
 
 - 🔭 I’m currently working on [Bronco for Reddit](https://github.com/sahianmol1/Bronco-for-Reddit)
